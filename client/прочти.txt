@@ -1,0 +1,1 @@
+winpty docker run -it 0f699c972c40
